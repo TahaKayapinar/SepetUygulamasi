@@ -1,0 +1,24 @@
+C:\Users\Taha KAYAPINAR\Desktop\MyWorkSpace\SepetUygulamasi\SepetUygulamasi\bin\Debug\SepetUygulamasi.exe.config
+C:\Users\Taha KAYAPINAR\Desktop\MyWorkSpace\SepetUygulamasi\SepetUygulamasi\bin\Debug\SepetUygulamasi.exe
+C:\Users\Taha KAYAPINAR\Desktop\MyWorkSpace\SepetUygulamasi\SepetUygulamasi\bin\Debug\SepetUygulamasi.pdb
+C:\Users\Taha KAYAPINAR\Desktop\MyWorkSpace\SepetUygulamasi\SepetUygulamasi\obj\Debug\SepetUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Taha KAYAPINAR\Desktop\MyWorkSpace\SepetUygulamasi\SepetUygulamasi\obj\Debug\SepetUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Taha KAYAPINAR\Desktop\MyWorkSpace\SepetUygulamasi\SepetUygulamasi\obj\Debug\SepetUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Taha KAYAPINAR\Desktop\MyWorkSpace\SepetUygulamasi\SepetUygulamasi\obj\Debug\SepetUygulamasi.exe
+C:\Users\Taha KAYAPINAR\Desktop\MyWorkSpace\SepetUygulamasi\SepetUygulamasi\obj\Debug\SepetUygulamasi.pdb
+C:\Users\Taha KAYAPINAR\Desktop\MyWorkSpace\8- 26.06.2022\SepetUygulamasi\SepetUygulamasi\bin\Debug\SepetUygulamasi.exe.config
+C:\Users\Taha KAYAPINAR\Desktop\MyWorkSpace\8- 26.06.2022\SepetUygulamasi\SepetUygulamasi\bin\Debug\SepetUygulamasi.exe
+C:\Users\Taha KAYAPINAR\Desktop\MyWorkSpace\8- 26.06.2022\SepetUygulamasi\SepetUygulamasi\bin\Debug\SepetUygulamasi.pdb
+C:\Users\Taha KAYAPINAR\Desktop\MyWorkSpace\8- 26.06.2022\SepetUygulamasi\SepetUygulamasi\obj\Debug\SepetUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Taha KAYAPINAR\Desktop\MyWorkSpace\8- 26.06.2022\SepetUygulamasi\SepetUygulamasi\obj\Debug\SepetUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Taha KAYAPINAR\Desktop\MyWorkSpace\8- 26.06.2022\SepetUygulamasi\SepetUygulamasi\obj\Debug\SepetUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Taha KAYAPINAR\Desktop\MyWorkSpace\8- 26.06.2022\SepetUygulamasi\SepetUygulamasi\obj\Debug\SepetUygulamasi.exe
+C:\Users\Taha KAYAPINAR\Desktop\MyWorkSpace\8- 26.06.2022\SepetUygulamasi\SepetUygulamasi\obj\Debug\SepetUygulamasi.pdb
+C:\Users\TAHA\Desktop\MyWorkSpace\8- 26.06.2022\SepetUygulamasi\SepetUygulamasi\bin\Debug\SepetUygulamasi.exe.config
+C:\Users\TAHA\Desktop\MyWorkSpace\8- 26.06.2022\SepetUygulamasi\SepetUygulamasi\bin\Debug\SepetUygulamasi.exe
+C:\Users\TAHA\Desktop\MyWorkSpace\8- 26.06.2022\SepetUygulamasi\SepetUygulamasi\bin\Debug\SepetUygulamasi.pdb
+C:\Users\TAHA\Desktop\MyWorkSpace\8- 26.06.2022\SepetUygulamasi\SepetUygulamasi\obj\Debug\SepetUygulamasi.csproj.AssemblyReference.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\8- 26.06.2022\SepetUygulamasi\SepetUygulamasi\obj\Debug\SepetUygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\8- 26.06.2022\SepetUygulamasi\SepetUygulamasi\obj\Debug\SepetUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\MyWorkSpace\8- 26.06.2022\SepetUygulamasi\SepetUygulamasi\obj\Debug\SepetUygulamasi.exe
+C:\Users\TAHA\Desktop\MyWorkSpace\8- 26.06.2022\SepetUygulamasi\SepetUygulamasi\obj\Debug\SepetUygulamasi.pdb
